@@ -173,7 +173,6 @@ write.table(tidyDF,file = "C:/Users/hey09895/Desktop/Data Science Specialization
 
 ## Variables
 
-#####Variable Names#####
 All variable names (except "Subject" and "Activity") are a combination of:
 
 * The domain (t or f): the t-domain denotes measurements made over time, while f-domain represents Fast Fourier Transformed    variables derived from the t-domain variables. 
